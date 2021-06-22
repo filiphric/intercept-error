@@ -1,0 +1,16 @@
+{
+  "name": "intercept-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.5.0",
+    "json-server": "^0.16.3"
+  }
+}
